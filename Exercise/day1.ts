@@ -94,8 +94,8 @@ console.log(++counter2); //ditambahkan dulu baru ditampilkan
     <=
     >=
 */
-console.log(2=="2");
-console.log(2==="2");
+console.log( 2 =="2");
+console.log( 2 ==="2");
 console.log(2>5);
 console.log(2<5);
 console.log(5<5);

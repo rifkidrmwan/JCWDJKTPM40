@@ -31,8 +31,8 @@ console.log( person3);
     - case sensitive
 */
 
-const companyName = "Purwadhika"; //camel case
-const companyName = "Purwadhika"; //pascal case
+const company_Name = "Purwadhika"; //camel case
+const companame = "Purwadhika"; //pascal case
 const company_Name = "Purwadhika"; //snake case
 
 // =============== DATA TYPES ==========
