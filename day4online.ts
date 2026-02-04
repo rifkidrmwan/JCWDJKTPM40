@@ -85,7 +85,7 @@ console.log(getEvenNumbers([1,2,3,4,5,6,7,8,9,10]));
 
 //exercise 5
 function splitWords(text: string): string[] {
-  return text.split(" WS");
+  return text.split(" ");
 }
 
 console.log(splitWords("Hello world"));
