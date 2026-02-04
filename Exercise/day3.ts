@@ -215,17 +215,3 @@ for (let i = 0; i < 5; i++) {
 console.log();
 
 }
-
-
-//==cek ganjil genap
-
-function cekGanjilGenap(n: number): void {
-  if (n % 2 === 0) {
-    console.log(`${n} adalah bilangan genap`);
-  } else {
-    console.log(`${n} adalah bilangan ganjil`);
-  }
-}
-
-cekGanjilGenap(25);
-cekGanjilGenap(2);
